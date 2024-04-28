@@ -1,0 +1,16 @@
+.table{
+    width: 600px;
+    margin: 40px 0;
+    font-size: 24px;
+    table-layout: fixed;
+    background-color: #192300;
+    margin-left: 15px;
+}
+.title{
+    background-color: black;
+    height: 40px;
+}
+.name{
+    color: white;
+    border: solid 2px #192300;
+}
